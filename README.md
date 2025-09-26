@@ -1,6 +1,6 @@
 # Sparking Growth: A Data-Driven Strategy for Shri Hari Electric and Electronics
 
-This repository contains the analysis and implementation for the BDM capstone project for the IITM Online BS Degree Program. The project focuses on optimizing sales, inventory, and logistics for Shri Hari Electric And Electronics through a data-driven approach.
+This repository contains the analysis and implementation for the BDM capstone project. The project focuses on optimizing sales, inventory, and logistics for Shri Hari Electric And Electronics through a data-driven approach.
 
 ## 📑 Table of Contents
 * [About the Business](#-about-the-business)
